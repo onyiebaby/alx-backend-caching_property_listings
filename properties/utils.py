@@ -1,0 +1,1 @@
+def get_all_properties(): "", Property.objects.all(), cache.get, all_properties, 3600, get_all_properties
